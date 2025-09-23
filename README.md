@@ -15,7 +15,7 @@
 <a href="https://t.me/artezon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="@artezon"/></a>
 <a href="https://steamcommunity.com/id/artez0n"><img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" title="artez0n"/></a>
 <a href="https://artezon.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" title="artezon.bsky.social"/></a><br>
-<a href="#"><img src="https://simple-counter.artezon2003.workers.dev/api/hit/artezon-github-profile" alt="GitHub profile views" title="GitHub profile views since 2025/06/28"/></a>
+<a href="#"><img src="https://simple-counter.artezon.workers.dev/api/hit/artezon-github-profile" alt="GitHub profile views" title="GitHub profile views since 2025/06/28"/></a>
 <a href="https://github.com/Artezon?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/artezon?style=for-the-badge&logo=github&labelColor=0CB32B&color=0ECC31" alt="Total stars on GitHub" title="Total stars on GitHub"/></a>
 
 ### ✨ My skills ✨
