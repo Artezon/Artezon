@@ -8,7 +8,7 @@
 🧑‍💻 I'm a software developer from Russia.<br>
 👤 My nickname is `Artezon`.<br>
 🎓 CS student at the Kuban State University.<br>
-⚡ Interested in coding, AI, graphic design, gaming, music, anime/manga.<br>
+⚡ Interested in coding, machine learning, UI design, video games,<br>music, nature, languages, movies, anime and manga.<br>
 😸 I like cats :3<br>
 
 <a href="#"><img src="https://img.shields.io/badge/Homepage_(coming_soon)-6662B1?style=for-the-badge" alt="Homepage (coming soon)" title="https://..."/></a><br>
